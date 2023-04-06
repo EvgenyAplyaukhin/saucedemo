@@ -1,0 +1,6 @@
+/.idea
+/.pytest_cache
+/archive
+*/.pytest_cache
+output.json
+pytest_html_reporter.html
