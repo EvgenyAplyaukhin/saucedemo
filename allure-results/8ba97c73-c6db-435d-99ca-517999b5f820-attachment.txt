@@ -1,0 +1,22 @@
+[32mINFO    [0m BaseObject:base.py:30 element ('id', 'user-name') enter value
+[32mINFO    [0m BaseObject:base.py:14 element ('id', 'user-name') is visible
+[32mINFO    [0m BaseObject:base.py:30 element ('id', 'password') enter value
+[32mINFO    [0m BaseObject:base.py:14 element ('id', 'password') is visible
+[32mINFO    [0m BaseObject:base.py:26 element ('id', 'login-button') click
+[32mINFO    [0m BaseObject:base.py:22 element ('id', 'login-button') is clickable
+[32mINFO    [0m BaseObject:base.py:26 element ('id', 'add-to-cart-sauce-labs-backpack') click
+[32mINFO    [0m BaseObject:base.py:22 element ('id', 'add-to-cart-sauce-labs-backpack') is clickable
+[32mINFO    [0m BaseObject:base.py:26 element ('class name', 'shopping_cart_badge') click
+[32mINFO    [0m BaseObject:base.py:22 element ('class name', 'shopping_cart_badge') is clickable
+[32mINFO    [0m BaseObject:base.py:26 element ('id', 'checkout') click
+[32mINFO    [0m BaseObject:base.py:22 element ('id', 'checkout') is clickable
+[32mINFO    [0m BaseObject:base.py:30 element ('id', 'first-name') enter value
+[32mINFO    [0m BaseObject:base.py:14 element ('id', 'first-name') is visible
+[32mINFO    [0m BaseObject:base.py:30 element ('id', 'last-name') enter value
+[32mINFO    [0m BaseObject:base.py:14 element ('id', 'last-name') is visible
+[32mINFO    [0m BaseObject:base.py:30 element ('id', 'postal-code') enter value
+[32mINFO    [0m BaseObject:base.py:14 element ('id', 'postal-code') is visible
+[32mINFO    [0m BaseObject:base.py:26 element ('id', 'continue') click
+[32mINFO    [0m BaseObject:base.py:22 element ('id', 'continue') is clickable
+[32mINFO    [0m BaseObject:base.py:26 element ('id', 'finish') click
+[32mINFO    [0m BaseObject:base.py:22 element ('id', 'finish') is clickable

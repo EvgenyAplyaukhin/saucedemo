@@ -446,3 +446,772 @@
 ******* 04/15/2023 02: 41: 10 PM - INFO - element ('id', 'login-button') click
 ******* 04/15/2023 02: 41: 10 PM - INFO - element ('id', 'login-button') is clickable
 ******* 04/15/2023 02: 41: 10 PM - INFO - element ('class name', 'title') is visible
+******* 04/17/2023 03: 06: 35 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 03: 06: 35 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 03: 06: 35 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 03: 06: 35 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 03: 06: 35 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 03: 06: 35 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 03: 06: 35 PM - INFO - element ('class name', 'title') is visible
+******* 04/17/2023 06: 28: 53 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 28: 53 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 28: 53 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 28: 53 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 28: 53 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 28: 53 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 28: 53 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 29: 01 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 29: 01 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 29: 02 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 29: 02 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 29: 02 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 29: 02 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 29: 02 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 29: 10 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 29: 10 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 29: 10 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 29: 10 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 29: 10 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 29: 10 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 29: 10 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 29: 19 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 29: 19 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 29: 19 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 29: 19 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 29: 19 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 29: 19 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 29: 19 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 29: 23 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 29: 23 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 29: 24 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 29: 24 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 29: 24 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 29: 24 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 29: 24 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 31: 42 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 31: 42 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 31: 42 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 31: 42 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 31: 42 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 31: 42 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 31: 42 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 31: 51 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 31: 51 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 31: 51 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 31: 51 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 31: 51 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 31: 51 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 31: 51 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 32: 00 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 32: 00 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 32: 00 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 32: 00 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 32: 00 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 32: 00 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 32: 00 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 32: 09 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 32: 09 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 32: 09 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 32: 09 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 32: 09 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 32: 09 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 32: 09 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 32: 14 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 32: 14 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 32: 15 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 32: 15 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 32: 15 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 32: 15 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 32: 15 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 37: 00 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 37: 00 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 37: 00 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 37: 00 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 37: 01 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 37: 01 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 37: 01 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 37: 10 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 37: 10 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 37: 10 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 37: 10 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 37: 10 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 37: 10 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 37: 10 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 37: 19 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 37: 19 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 37: 19 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 37: 19 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 37: 19 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 37: 19 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 37: 19 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 37: 28 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 37: 28 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 37: 29 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 37: 29 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 37: 29 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 37: 29 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 37: 29 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 37: 33 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 37: 33 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 37: 33 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 37: 33 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 37: 33 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 37: 33 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 37: 33 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 39: 54 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 39: 54 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 39: 54 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 39: 54 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 39: 54 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 39: 54 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 39: 54 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 39: 58 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 39: 58 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 39: 59 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 39: 59 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 39: 59 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 39: 59 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 39: 59 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 40: 04 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 40: 04 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 40: 04 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 40: 04 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 40: 04 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 40: 04 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 40: 04 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 40: 08 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 40: 08 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 40: 09 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 40: 09 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 40: 09 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 40: 09 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 40: 09 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 40: 14 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 40: 14 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 40: 47 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 40: 47 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 40: 47 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 40: 47 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 40: 47 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 40: 47 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 40: 47 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 40: 53 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 40: 53 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 41: 31 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 41: 31 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 41: 35 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 41: 35 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 42: 34 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 42: 34 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 42: 38 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 42: 38 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 43: 22 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 43: 22 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 43: 22 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 43: 22 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 43: 23 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 43: 23 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 43: 23 PM - INFO - element ('class name', 'bm-burger-button') click
+******* 04/17/2023 06: 43: 23 PM - INFO - element ('class name', 'bm-burger-button') is clickable
+******* 04/17/2023 06: 43: 23 PM - INFO - element ('id', 'logout_sidebar_link') click
+******* 04/17/2023 06: 43: 23 PM - INFO - element ('id', 'logout_sidebar_link') is clickable
+******* 04/17/2023 06: 43: 41 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 43: 41 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 43: 41 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 43: 41 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 43: 41 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 43: 41 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 43: 41 PM - INFO - element ('class name', 'title') is visible
+******* 04/17/2023 06: 43: 57 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 43: 57 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 43: 57 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 43: 57 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 43: 57 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 43: 57 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 43: 57 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 44: 06 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 44: 06 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 44: 07 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 44: 07 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 44: 07 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 44: 07 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 44: 07 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 44: 16 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 44: 16 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 44: 16 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 44: 16 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 44: 16 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 44: 16 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 44: 16 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 44: 25 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 44: 25 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 44: 25 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 44: 25 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 44: 25 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 44: 25 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 44: 26 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 44: 30 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 44: 30 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 44: 30 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 44: 30 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 44: 30 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 44: 30 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 44: 30 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 48: 02 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 48: 02 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 48: 02 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 48: 02 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 48: 03 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 48: 03 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 48: 03 PM - INFO - element ('class name', 'bm-burger-button') click
+******* 04/17/2023 06: 48: 03 PM - INFO - element ('class name', 'bm-burger-button') is clickable
+******* 04/17/2023 06: 48: 03 PM - INFO - element ('id', 'logout_sidebar_link') click
+******* 04/17/2023 06: 48: 03 PM - INFO - element ('id', 'logout_sidebar_link') is clickable
+******* 04/17/2023 06: 50: 35 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 50: 35 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 50: 35 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 50: 35 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 50: 35 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 50: 35 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 50: 35 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 50: 45 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 50: 45 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 50: 45 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 50: 45 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 50: 45 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 50: 45 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 50: 45 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 50: 53 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 50: 53 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 50: 53 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 50: 53 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 50: 54 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 50: 54 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 50: 54 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 51: 02 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 51: 02 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 51: 02 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 51: 02 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 51: 02 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 51: 02 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 51: 02 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 51: 06 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 51: 06 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 51: 06 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 51: 06 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 51: 07 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 51: 07 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 51: 07 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 58: 00 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 58: 00 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 58: 00 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 58: 00 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 58: 00 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 58: 00 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 58: 00 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 58: 09 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 58: 09 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 58: 09 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 58: 09 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 58: 10 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 58: 10 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 58: 10 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 58: 19 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 58: 19 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 58: 19 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 58: 19 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 58: 19 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 58: 19 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 58: 19 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 58: 28 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 58: 28 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 58: 28 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 58: 28 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 58: 28 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 58: 28 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 58: 29 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 06: 58: 33 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 06: 58: 33 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 06: 58: 33 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 06: 58: 33 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 06: 58: 33 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 06: 58: 33 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 06: 58: 33 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 07: 03: 48 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 07: 03: 48 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 07: 03: 49 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 07: 03: 49 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 07: 03: 49 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 07: 03: 49 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 07: 03: 49 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 07: 03: 58 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 07: 03: 58 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 07: 03: 58 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 07: 03: 58 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 07: 03: 58 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 07: 03: 58 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 07: 03: 58 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 07: 04: 08 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 07: 04: 08 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 07: 04: 08 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 07: 04: 08 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 07: 04: 08 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 07: 04: 08 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 07: 04: 08 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 07: 04: 16 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 07: 04: 16 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 07: 04: 16 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 07: 04: 16 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 07: 04: 17 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 07: 04: 17 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 07: 04: 17 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 07: 04: 21 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 07: 04: 21 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 07: 04: 21 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 07: 04: 21 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 07: 04: 22 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 07: 04: 22 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 07: 04: 22 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 07: 07: 48 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 07: 07: 48 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 07: 07: 49 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 07: 07: 49 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 07: 07: 49 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 07: 07: 49 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 07: 07: 49 PM - INFO - element ('class name', 'title') is visible
+******* 04/17/2023 07: 08: 04 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 07: 08: 04 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 07: 08: 04 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 07: 08: 04 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 07: 08: 04 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 07: 08: 04 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 07: 08: 04 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 07: 08: 13 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 07: 08: 13 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 07: 08: 13 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 07: 08: 13 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 07: 08: 13 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 07: 08: 13 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 07: 08: 13 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 07: 08: 22 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 07: 08: 22 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 07: 08: 22 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 07: 08: 22 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 07: 08: 22 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 07: 08: 22 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 07: 08: 22 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 07: 08: 31 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 07: 08: 31 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 07: 08: 31 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 07: 08: 31 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 07: 08: 32 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 07: 08: 32 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 07: 08: 32 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 07: 08: 37 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 07: 08: 37 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 07: 08: 37 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 07: 08: 37 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 07: 08: 37 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 07: 08: 37 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 07: 08: 37 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 07: 10: 25 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 07: 10: 25 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 07: 10: 25 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 07: 10: 25 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 07: 10: 26 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 07: 10: 26 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 07: 10: 26 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 07: 10: 30 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 07: 10: 30 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 07: 10: 30 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 07: 10: 30 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 07: 10: 30 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 07: 10: 30 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 07: 10: 30 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 07: 10: 35 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 07: 10: 35 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 07: 10: 35 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 07: 10: 35 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 07: 10: 35 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 07: 10: 35 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 07: 10: 35 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 07: 10: 40 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 07: 10: 40 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 07: 10: 40 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 07: 10: 40 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 07: 10: 40 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 07: 10: 40 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 07: 10: 40 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 07: 10: 45 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 07: 10: 45 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 07: 10: 46 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 07: 10: 46 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 07: 10: 46 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 07: 10: 46 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 07: 10: 46 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 07: 10: 50 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 07: 10: 50 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 07: 10: 50 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 07: 10: 50 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 07: 10: 50 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 07: 10: 50 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 07: 10: 50 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 07: 17: 14 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 07: 17: 14 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 07: 17: 14 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 07: 17: 14 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 07: 17: 14 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 07: 17: 14 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 07: 17: 14 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 07: 17: 22 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 07: 17: 22 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 07: 17: 22 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 07: 17: 22 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 07: 17: 22 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 07: 17: 22 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 07: 17: 23 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 07: 17: 32 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 07: 17: 32 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 07: 17: 32 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 07: 17: 32 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 07: 17: 32 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 07: 17: 32 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 07: 17: 32 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 07: 17: 41 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 07: 17: 41 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 07: 17: 41 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 07: 17: 41 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 07: 17: 41 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 07: 17: 41 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 07: 17: 41 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/17/2023 07: 50: 18 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 07: 50: 18 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 07: 50: 19 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 07: 50: 19 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 07: 50: 19 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 07: 50: 19 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 07: 50: 19 PM - INFO - element ('id', 'add-to-cart-sauce-labs-backpack') click
+******* 04/17/2023 07: 50: 19 PM - INFO - element ('id', 'add-to-cart-sauce-labs-backpack') is clickable
+******* 04/17/2023 07: 50: 19 PM - INFO - element ('class name', 'shopping_cart_badge') click
+******* 04/17/2023 07: 50: 19 PM - INFO - element ('class name', 'shopping_cart_badge') is clickable
+******* 04/17/2023 07: 50: 19 PM - INFO - element ('id', 'checkout') click
+******* 04/17/2023 07: 50: 19 PM - INFO - element ('id', 'checkout') is clickable
+******* 04/17/2023 07: 50: 19 PM - INFO - element ('id', 'first-name') enter value
+******* 04/17/2023 07: 50: 19 PM - INFO - element ('id', 'first-name') is visible
+******* 04/17/2023 07: 50: 19 PM - INFO - element ('id', 'last-name') enter value
+******* 04/17/2023 07: 50: 19 PM - INFO - element ('id', 'last-name') is visible
+******* 04/17/2023 07: 50: 19 PM - INFO - element ('id', 'postalCode') enter value
+******* 04/17/2023 07: 50: 19 PM - INFO - element ('id', 'postalCode') is visible
+******* 04/17/2023 07: 50: 30 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 07: 50: 30 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 07: 50: 30 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 07: 50: 30 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 07: 50: 30 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 07: 50: 30 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 07: 50: 30 PM - INFO - element ('id', 'add-to-cart-sauce-labs-backpack') click
+******* 04/17/2023 07: 50: 30 PM - INFO - element ('id', 'add-to-cart-sauce-labs-backpack') is clickable
+******* 04/17/2023 07: 50: 30 PM - INFO - element ('class name', 'shopping_cart_badge') click
+******* 04/17/2023 07: 50: 30 PM - INFO - element ('class name', 'shopping_cart_badge') is clickable
+******* 04/17/2023 07: 50: 30 PM - INFO - element ('id', 'checkout') click
+******* 04/17/2023 07: 50: 30 PM - INFO - element ('id', 'checkout') is clickable
+******* 04/17/2023 07: 50: 30 PM - INFO - element ('id', 'first-name') enter value
+******* 04/17/2023 07: 50: 30 PM - INFO - element ('id', 'first-name') is visible
+******* 04/17/2023 07: 50: 30 PM - INFO - element ('id', 'last-name') enter value
+******* 04/17/2023 07: 50: 30 PM - INFO - element ('id', 'last-name') is visible
+******* 04/17/2023 07: 50: 31 PM - INFO - element ('id', 'postalCode') enter value
+******* 04/17/2023 07: 50: 31 PM - INFO - element ('id', 'postalCode') is visible
+******* 04/17/2023 07: 51: 35 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 07: 51: 35 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 07: 51: 35 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 07: 51: 35 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 07: 51: 35 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 07: 51: 35 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 07: 51: 35 PM - INFO - element ('id', 'add-to-cart-sauce-labs-backpack') click
+******* 04/17/2023 07: 51: 35 PM - INFO - element ('id', 'add-to-cart-sauce-labs-backpack') is clickable
+******* 04/17/2023 07: 51: 35 PM - INFO - element ('class name', 'shopping_cart_badge') click
+******* 04/17/2023 07: 51: 35 PM - INFO - element ('class name', 'shopping_cart_badge') is clickable
+******* 04/17/2023 07: 51: 35 PM - INFO - element ('id', 'checkout') click
+******* 04/17/2023 07: 51: 35 PM - INFO - element ('id', 'checkout') is clickable
+******* 04/17/2023 07: 51: 35 PM - INFO - element ('id', 'first-name') enter value
+******* 04/17/2023 07: 51: 35 PM - INFO - element ('id', 'first-name') is visible
+******* 04/17/2023 07: 51: 35 PM - INFO - element ('id', 'last-name') enter value
+******* 04/17/2023 07: 51: 35 PM - INFO - element ('id', 'last-name') is visible
+******* 04/17/2023 07: 51: 35 PM - INFO - element ('id', 'postalCode') enter value
+******* 04/17/2023 07: 51: 35 PM - INFO - element ('id', 'postalCode') is visible
+******* 04/17/2023 07: 53: 17 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 07: 53: 17 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 07: 53: 17 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 07: 53: 17 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 07: 53: 17 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 07: 53: 17 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 07: 53: 17 PM - INFO - element ('id', 'add-to-cart-sauce-labs-backpack') click
+******* 04/17/2023 07: 53: 17 PM - INFO - element ('id', 'add-to-cart-sauce-labs-backpack') is clickable
+******* 04/17/2023 07: 53: 17 PM - INFO - element ('class name', 'shopping_cart_badge') click
+******* 04/17/2023 07: 53: 17 PM - INFO - element ('class name', 'shopping_cart_badge') is clickable
+******* 04/17/2023 07: 53: 17 PM - INFO - element ('id', 'checkout') click
+******* 04/17/2023 07: 53: 17 PM - INFO - element ('id', 'checkout') is clickable
+******* 04/17/2023 07: 53: 17 PM - INFO - element ('id', 'first-name') enter value
+******* 04/17/2023 07: 53: 17 PM - INFO - element ('id', 'first-name') is visible
+******* 04/17/2023 07: 53: 18 PM - INFO - element ('id', 'last-name') enter value
+******* 04/17/2023 07: 53: 18 PM - INFO - element ('id', 'last-name') is visible
+******* 04/17/2023 07: 53: 18 PM - INFO - element ('id', 'postal-code') enter value
+******* 04/17/2023 07: 53: 18 PM - INFO - element ('id', 'postal-code') is visible
+******* 04/17/2023 07: 53: 23 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 07: 53: 23 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 07: 53: 23 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 07: 53: 23 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 07: 53: 23 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 07: 53: 23 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 07: 53: 23 PM - INFO - element ('id', 'add-to-cart-sauce-labs-backpack') click
+******* 04/17/2023 07: 53: 23 PM - INFO - element ('id', 'add-to-cart-sauce-labs-backpack') is clickable
+******* 04/17/2023 07: 53: 23 PM - INFO - element ('class name', 'shopping_cart_badge') click
+******* 04/17/2023 07: 53: 23 PM - INFO - element ('class name', 'shopping_cart_badge') is clickable
+******* 04/17/2023 07: 53: 23 PM - INFO - element ('id', 'checkout') click
+******* 04/17/2023 07: 53: 23 PM - INFO - element ('id', 'checkout') is clickable
+******* 04/17/2023 07: 53: 24 PM - INFO - element ('id', 'first-name') enter value
+******* 04/17/2023 07: 53: 24 PM - INFO - element ('id', 'first-name') is visible
+******* 04/17/2023 07: 53: 24 PM - INFO - element ('id', 'last-name') enter value
+******* 04/17/2023 07: 53: 24 PM - INFO - element ('id', 'last-name') is visible
+******* 04/17/2023 07: 53: 24 PM - INFO - element ('id', 'postal-code') enter value
+******* 04/17/2023 07: 53: 24 PM - INFO - element ('id', 'postal-code') is visible
+******* 04/17/2023 07: 54: 49 PM - INFO - element ('id', 'user-name') enter value
+******* 04/17/2023 07: 54: 49 PM - INFO - element ('id', 'user-name') is visible
+******* 04/17/2023 07: 54: 49 PM - INFO - element ('id', 'password') enter value
+******* 04/17/2023 07: 54: 49 PM - INFO - element ('id', 'password') is visible
+******* 04/17/2023 07: 54: 49 PM - INFO - element ('id', 'login-button') click
+******* 04/17/2023 07: 54: 49 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/17/2023 07: 54: 49 PM - INFO - element ('id', 'add-to-cart-sauce-labs-backpack') click
+******* 04/17/2023 07: 54: 49 PM - INFO - element ('id', 'add-to-cart-sauce-labs-backpack') is clickable
+******* 04/17/2023 07: 54: 49 PM - INFO - element ('class name', 'shopping_cart_badge') click
+******* 04/17/2023 07: 54: 49 PM - INFO - element ('class name', 'shopping_cart_badge') is clickable
+******* 04/17/2023 07: 54: 49 PM - INFO - element ('id', 'checkout') click
+******* 04/17/2023 07: 54: 49 PM - INFO - element ('id', 'checkout') is clickable
+******* 04/17/2023 07: 54: 49 PM - INFO - element ('id', 'first-name') enter value
+******* 04/17/2023 07: 54: 49 PM - INFO - element ('id', 'first-name') is visible
+******* 04/17/2023 07: 54: 50 PM - INFO - element ('id', 'last-name') enter value
+******* 04/17/2023 07: 54: 50 PM - INFO - element ('id', 'last-name') is visible
+******* 04/17/2023 07: 54: 50 PM - INFO - element ('id', 'postal-code') enter value
+******* 04/17/2023 07: 54: 50 PM - INFO - element ('id', 'postal-code') is visible
+******* 04/17/2023 07: 54: 50 PM - INFO - element ('id', 'continue') click
+******* 04/17/2023 07: 54: 50 PM - INFO - element ('id', 'continue') is clickable
+******* 04/17/2023 07: 54: 50 PM - INFO - element ('id', 'finish') click
+******* 04/17/2023 07: 54: 50 PM - INFO - element ('id', 'finish') is clickable
+******* 04/18/2023 01: 05: 26 PM - INFO - element ('id', 'user-name') enter value
+******* 04/18/2023 01: 05: 26 PM - INFO - element ('id', 'user-name') is visible
+******* 04/18/2023 01: 05: 26 PM - INFO - element ('id', 'password') enter value
+******* 04/18/2023 01: 05: 26 PM - INFO - element ('id', 'password') is visible
+******* 04/18/2023 01: 05: 27 PM - INFO - element ('id', 'login-button') click
+******* 04/18/2023 01: 05: 27 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/18/2023 01: 05: 27 PM - INFO - element ('id', 'add-to-cart-sauce-labs-backpack') click
+******* 04/18/2023 01: 05: 27 PM - INFO - element ('id', 'add-to-cart-sauce-labs-backpack') is clickable
+******* 04/18/2023 01: 05: 27 PM - INFO - element ('class name', 'shopping_cart_badge') click
+******* 04/18/2023 01: 05: 27 PM - INFO - element ('class name', 'shopping_cart_badge') is clickable
+******* 04/18/2023 01: 05: 27 PM - INFO - element ('id', 'checkout') click
+******* 04/18/2023 01: 05: 27 PM - INFO - element ('id', 'checkout') is clickable
+******* 04/18/2023 01: 05: 27 PM - INFO - element ('id', 'first-name') enter value
+******* 04/18/2023 01: 05: 27 PM - INFO - element ('id', 'first-name') is visible
+******* 04/18/2023 01: 05: 27 PM - INFO - element ('id', 'last-name') enter value
+******* 04/18/2023 01: 05: 27 PM - INFO - element ('id', 'last-name') is visible
+******* 04/18/2023 01: 05: 27 PM - INFO - element ('id', 'postal-code') enter value
+******* 04/18/2023 01: 05: 27 PM - INFO - element ('id', 'postal-code') is visible
+******* 04/18/2023 01: 05: 27 PM - INFO - element ('id', 'continue') click
+******* 04/18/2023 01: 05: 27 PM - INFO - element ('id', 'continue') is clickable
+******* 04/18/2023 01: 05: 27 PM - INFO - element ('id', 'finish') click
+******* 04/18/2023 01: 05: 27 PM - INFO - element ('id', 'finish') is clickable
+******* 04/19/2023 06: 36: 22 PM - INFO - element ('id', 'user-name') enter value
+******* 04/19/2023 06: 36: 22 PM - INFO - element ('id', 'user-name') is visible
+******* 04/19/2023 06: 36: 22 PM - INFO - element ('id', 'password') enter value
+******* 04/19/2023 06: 36: 22 PM - INFO - element ('id', 'password') is visible
+******* 04/19/2023 06: 36: 22 PM - INFO - element ('id', 'login-button') click
+******* 04/19/2023 06: 36: 22 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/19/2023 06: 36: 22 PM - INFO - element ('id', 'add-to-cart-sauce-labs-backpack') click
+******* 04/19/2023 06: 36: 22 PM - INFO - element ('id', 'add-to-cart-sauce-labs-backpack') is clickable
+******* 04/19/2023 06: 36: 22 PM - INFO - element ('class name', 'shopping_cart_badge') click
+******* 04/19/2023 06: 36: 22 PM - INFO - element ('class name', 'shopping_cart_badge') is clickable
+******* 04/19/2023 06: 36: 22 PM - INFO - element ('id', 'checkout') click
+******* 04/19/2023 06: 36: 22 PM - INFO - element ('id', 'checkout') is clickable
+******* 04/19/2023 06: 36: 22 PM - INFO - element ('id', 'first-name') enter value
+******* 04/19/2023 06: 36: 22 PM - INFO - element ('id', 'first-name') is visible
+******* 04/19/2023 06: 36: 23 PM - INFO - element ('id', 'last-name') enter value
+******* 04/19/2023 06: 36: 23 PM - INFO - element ('id', 'last-name') is visible
+******* 04/19/2023 06: 36: 23 PM - INFO - element ('id', 'postal-code') enter value
+******* 04/19/2023 06: 36: 23 PM - INFO - element ('id', 'postal-code') is visible
+******* 04/19/2023 06: 36: 23 PM - INFO - element ('id', 'continue') click
+******* 04/19/2023 06: 36: 23 PM - INFO - element ('id', 'continue') is clickable
+******* 04/19/2023 06: 36: 23 PM - INFO - element ('id', 'finish') click
+******* 04/19/2023 06: 36: 23 PM - INFO - element ('id', 'finish') is clickable
+******* 04/19/2023 06: 39: 04 PM - INFO - element ('id', 'user-name') enter value
+******* 04/19/2023 06: 39: 04 PM - INFO - element ('id', 'user-name') is visible
+******* 04/19/2023 06: 39: 04 PM - INFO - element ('id', 'password') enter value
+******* 04/19/2023 06: 39: 04 PM - INFO - element ('id', 'password') is visible
+******* 04/19/2023 06: 39: 04 PM - INFO - element ('id', 'login-button') click
+******* 04/19/2023 06: 39: 04 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/19/2023 06: 39: 04 PM - INFO - element ('class name', 'bm-burger-button') click
+******* 04/19/2023 06: 39: 04 PM - INFO - element ('class name', 'bm-burger-button') is clickable
+******* 04/19/2023 06: 39: 04 PM - INFO - element ('id', 'logout_sidebar_link') click
+******* 04/19/2023 06: 39: 04 PM - INFO - element ('id', 'logout_sidebar_link') is clickable
+******* 04/19/2023 06: 41: 44 PM - INFO - element ('id', 'user-name') enter value
+******* 04/19/2023 06: 41: 44 PM - INFO - element ('id', 'user-name') is visible
+******* 04/19/2023 06: 41: 44 PM - INFO - element ('id', 'password') enter value
+******* 04/19/2023 06: 41: 44 PM - INFO - element ('id', 'password') is visible
+******* 04/19/2023 06: 41: 44 PM - INFO - element ('id', 'login-button') click
+******* 04/19/2023 06: 41: 44 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/19/2023 06: 41: 44 PM - INFO - element ('class name', 'bm-burger-button') click
+******* 04/19/2023 06: 41: 44 PM - INFO - element ('class name', 'bm-burger-button') is clickable
+******* 04/19/2023 06: 41: 44 PM - INFO - element ('id', 'logout_sidebar_link') click
+******* 04/19/2023 06: 41: 44 PM - INFO - element ('id', 'logout_sidebar_link') is clickable
+******* 04/19/2023 06: 47: 16 PM - INFO - element ('id', 'user-name') enter value
+******* 04/19/2023 06: 47: 16 PM - INFO - element ('id', 'user-name') is visible
+******* 04/19/2023 06: 47: 55 PM - INFO - element ('id', 'user-name') enter value
+******* 04/19/2023 06: 47: 55 PM - INFO - element ('id', 'user-name') is visible
+******* 04/19/2023 06: 47: 56 PM - INFO - element ('id', 'password') enter value
+******* 04/19/2023 06: 47: 56 PM - INFO - element ('id', 'password') is visible
+******* 04/19/2023 06: 47: 56 PM - INFO - element ('id', 'login-button') click
+******* 04/19/2023 06: 47: 56 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/19/2023 06: 47: 56 PM - INFO - element ('class name', 'title') is visible
+******* 04/21/2023 09: 47: 09 AM - INFO - element ('id', 'user-name') enter value
+******* 04/21/2023 09: 47: 09 AM - INFO - element ('id', 'user-name') is visible
+******* 04/21/2023 09: 47: 09 AM - INFO - element ('id', 'password') enter value
+******* 04/21/2023 09: 47: 09 AM - INFO - element ('id', 'password') is visible
+******* 04/21/2023 09: 47: 09 AM - INFO - element ('id', 'login-button') click
+******* 04/21/2023 09: 47: 09 AM - INFO - element ('id', 'login-button') is clickable
+******* 04/21/2023 09: 47: 09 AM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/21/2023 09: 47: 19 AM - INFO - element ('id', 'user-name') enter value
+******* 04/21/2023 09: 47: 19 AM - INFO - element ('id', 'user-name') is visible
+******* 04/21/2023 09: 47: 19 AM - INFO - element ('id', 'password') enter value
+******* 04/21/2023 09: 47: 19 AM - INFO - element ('id', 'password') is visible
+******* 04/21/2023 09: 47: 20 AM - INFO - element ('id', 'login-button') click
+******* 04/21/2023 09: 47: 20 AM - INFO - element ('id', 'login-button') is clickable
+******* 04/21/2023 09: 47: 20 AM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/21/2023 09: 47: 32 AM - INFO - element ('id', 'user-name') enter value
+******* 04/21/2023 09: 47: 32 AM - INFO - element ('id', 'user-name') is visible
+******* 04/21/2023 09: 47: 33 AM - INFO - element ('id', 'password') enter value
+******* 04/21/2023 09: 47: 33 AM - INFO - element ('id', 'password') is visible
+******* 04/21/2023 09: 47: 33 AM - INFO - element ('id', 'login-button') click
+******* 04/21/2023 09: 47: 33 AM - INFO - element ('id', 'login-button') is clickable
+******* 04/21/2023 09: 47: 33 AM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/21/2023 09: 47: 49 AM - INFO - element ('id', 'user-name') enter value
+******* 04/21/2023 09: 47: 49 AM - INFO - element ('id', 'user-name') is visible
+******* 04/21/2023 09: 47: 49 AM - INFO - element ('id', 'password') enter value
+******* 04/21/2023 09: 47: 49 AM - INFO - element ('id', 'password') is visible
+******* 04/21/2023 09: 47: 49 AM - INFO - element ('id', 'login-button') click
+******* 04/21/2023 09: 47: 49 AM - INFO - element ('id', 'login-button') is clickable
+******* 04/21/2023 09: 47: 49 AM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/21/2023 10: 37: 43 AM - INFO - element ('id', 'user-name') enter value
+******* 04/21/2023 10: 37: 43 AM - INFO - element ('id', 'user-name') is visible
+******* 04/21/2023 10: 37: 44 AM - INFO - element ('id', 'password') enter value
+******* 04/21/2023 10: 37: 44 AM - INFO - element ('id', 'password') is visible
+******* 04/21/2023 10: 37: 44 AM - INFO - element ('id', 'login-button') click
+******* 04/21/2023 10: 37: 44 AM - INFO - element ('id', 'login-button') is clickable
+******* 04/21/2023 10: 37: 44 AM - INFO - element ('id', 'add-to-cart-sauce-labs-backpack') click
+******* 04/21/2023 10: 37: 44 AM - INFO - element ('id', 'add-to-cart-sauce-labs-backpack') is clickable
+******* 04/21/2023 10: 37: 44 AM - INFO - element ('class name', 'shopping_cart_badge') click
+******* 04/21/2023 10: 37: 44 AM - INFO - element ('class name', 'shopping_cart_badge') is clickable
+******* 04/21/2023 10: 37: 44 AM - INFO - element ('id', 'checkout') click
+******* 04/21/2023 10: 37: 44 AM - INFO - element ('id', 'checkout') is clickable
+******* 04/21/2023 10: 37: 44 AM - INFO - element ('id', 'first-name') enter value
+******* 04/21/2023 10: 37: 44 AM - INFO - element ('id', 'first-name') is visible
+******* 04/21/2023 10: 37: 44 AM - INFO - element ('id', 'last-name') enter value
+******* 04/21/2023 10: 37: 44 AM - INFO - element ('id', 'last-name') is visible
+******* 04/21/2023 10: 37: 44 AM - INFO - element ('id', 'postal-code') enter value
+******* 04/21/2023 10: 37: 44 AM - INFO - element ('id', 'postal-code') is visible
+******* 04/21/2023 10: 37: 45 AM - INFO - element ('id', 'continue') click
+******* 04/21/2023 10: 37: 45 AM - INFO - element ('id', 'continue') is clickable
+******* 04/21/2023 10: 37: 45 AM - INFO - element ('id', 'finish') click
+******* 04/21/2023 10: 37: 45 AM - INFO - element ('id', 'finish') is clickable
+******* 04/21/2023 10: 38: 06 AM - INFO - element ('id', 'user-name') enter value
+******* 04/21/2023 10: 38: 06 AM - INFO - element ('id', 'user-name') is visible
+******* 04/21/2023 10: 38: 07 AM - INFO - element ('id', 'password') enter value
+******* 04/21/2023 10: 38: 07 AM - INFO - element ('id', 'password') is visible
+******* 04/21/2023 10: 38: 07 AM - INFO - element ('id', 'login-button') click
+******* 04/21/2023 10: 38: 07 AM - INFO - element ('id', 'login-button') is clickable
+******* 04/21/2023 10: 38: 07 AM - INFO - element ('class name', 'bm-burger-button') click
+******* 04/21/2023 10: 38: 07 AM - INFO - element ('class name', 'bm-burger-button') is clickable
+******* 04/21/2023 10: 38: 07 AM - INFO - element ('id', 'logout_sidebar_link') click
+******* 04/21/2023 10: 38: 07 AM - INFO - element ('id', 'logout_sidebar_link') is clickable
+******* 04/21/2023 10: 38: 24 AM - INFO - element ('id', 'user-name') enter value
+******* 04/21/2023 10: 38: 24 AM - INFO - element ('id', 'user-name') is visible
+******* 04/21/2023 10: 38: 24 AM - INFO - element ('id', 'password') enter value
+******* 04/21/2023 10: 38: 24 AM - INFO - element ('id', 'password') is visible
+******* 04/21/2023 10: 38: 25 AM - INFO - element ('id', 'login-button') click
+******* 04/21/2023 10: 38: 25 AM - INFO - element ('id', 'login-button') is clickable
+******* 04/21/2023 10: 38: 25 AM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/21/2023 10: 38: 34 AM - INFO - element ('id', 'user-name') enter value
+******* 04/21/2023 10: 38: 34 AM - INFO - element ('id', 'user-name') is visible
+******* 04/21/2023 10: 38: 34 AM - INFO - element ('id', 'password') enter value
+******* 04/21/2023 10: 38: 34 AM - INFO - element ('id', 'password') is visible
+******* 04/21/2023 10: 38: 34 AM - INFO - element ('id', 'login-button') click
+******* 04/21/2023 10: 38: 34 AM - INFO - element ('id', 'login-button') is clickable
+******* 04/21/2023 10: 38: 34 AM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/21/2023 10: 38: 44 AM - INFO - element ('id', 'user-name') enter value
+******* 04/21/2023 10: 38: 44 AM - INFO - element ('id', 'user-name') is visible
+******* 04/21/2023 10: 38: 44 AM - INFO - element ('id', 'password') enter value
+******* 04/21/2023 10: 38: 44 AM - INFO - element ('id', 'password') is visible
+******* 04/21/2023 10: 38: 44 AM - INFO - element ('id', 'login-button') click
+******* 04/21/2023 10: 38: 44 AM - INFO - element ('id', 'login-button') is clickable
+******* 04/21/2023 10: 38: 44 AM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/21/2023 10: 38: 57 AM - INFO - element ('id', 'user-name') enter value
+******* 04/21/2023 10: 38: 57 AM - INFO - element ('id', 'user-name') is visible
+******* 04/21/2023 10: 38: 57 AM - INFO - element ('id', 'password') enter value
+******* 04/21/2023 10: 38: 57 AM - INFO - element ('id', 'password') is visible
+******* 04/21/2023 10: 38: 57 AM - INFO - element ('id', 'login-button') click
+******* 04/21/2023 10: 38: 57 AM - INFO - element ('id', 'login-button') is clickable
+******* 04/21/2023 10: 38: 57 AM - INFO - element ('class name', 'error-message-container') is visible
+******* 04/21/2023 10: 39: 16 AM - INFO - element ('id', 'user-name') enter value
+******* 04/21/2023 10: 39: 16 AM - INFO - element ('id', 'user-name') is visible
+******* 04/21/2023 10: 39: 16 AM - INFO - element ('id', 'password') enter value
+******* 04/21/2023 10: 39: 16 AM - INFO - element ('id', 'password') is visible
+******* 04/21/2023 10: 39: 16 AM - INFO - element ('id', 'login-button') click
+******* 04/21/2023 10: 39: 16 AM - INFO - element ('id', 'login-button') is clickable
+******* 04/21/2023 10: 39: 16 AM - INFO - element ('class name', 'title') is visible
+******* 04/21/2023 10: 44: 13 AM - INFO - element ('id', 'user-name') enter value
+******* 04/21/2023 10: 44: 13 AM - INFO - element ('id', 'user-name') is visible
+******* 04/21/2023 10: 44: 13 AM - INFO - element ('id', 'password') enter value
+******* 04/21/2023 10: 44: 13 AM - INFO - element ('id', 'password') is visible
+******* 04/21/2023 10: 44: 13 AM - INFO - element ('id', 'login-button') click
+******* 04/21/2023 10: 44: 13 AM - INFO - element ('id', 'login-button') is clickable
+******* 04/21/2023 10: 44: 13 AM - INFO - element ('class name', 'title') is visible
+******* 04/25/2023 07: 00: 15 PM - INFO - element ('id', 'user-name') enter value
+******* 04/25/2023 07: 00: 15 PM - INFO - element ('id', 'user-name') is visible
+******* 04/25/2023 07: 00: 15 PM - INFO - element ('id', 'password') enter value
+******* 04/25/2023 07: 00: 15 PM - INFO - element ('id', 'password') is visible
+******* 04/25/2023 07: 00: 16 PM - INFO - element ('id', 'login-button') click
+******* 04/25/2023 07: 00: 16 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/25/2023 07: 00: 16 PM - INFO - element ('id', 'add-to-cart-sauce-labs-backpack') click
+******* 04/25/2023 07: 00: 16 PM - INFO - element ('id', 'add-to-cart-sauce-labs-backpack') is clickable
+******* 04/25/2023 07: 00: 16 PM - INFO - element ('class name', 'shopping_cart_badge') click
+******* 04/25/2023 07: 00: 16 PM - INFO - element ('class name', 'shopping_cart_badge') is clickable
+******* 04/25/2023 07: 00: 16 PM - INFO - element ('id', 'checkout') click
+******* 04/25/2023 07: 00: 16 PM - INFO - element ('id', 'checkout') is clickable
+******* 04/25/2023 07: 00: 16 PM - INFO - element ('id', 'first-name') enter value
+******* 04/25/2023 07: 00: 16 PM - INFO - element ('id', 'first-name') is visible
+******* 04/25/2023 07: 00: 16 PM - INFO - element ('id', 'last-name') enter value
+******* 04/25/2023 07: 00: 16 PM - INFO - element ('id', 'last-name') is visible
+******* 04/25/2023 07: 00: 16 PM - INFO - element ('id', 'postal-code') enter value
+******* 04/25/2023 07: 00: 16 PM - INFO - element ('id', 'postal-code') is visible
+******* 04/25/2023 07: 00: 16 PM - INFO - element ('id', 'continue') click
+******* 04/25/2023 07: 00: 16 PM - INFO - element ('id', 'continue') is clickable
+******* 04/25/2023 07: 00: 16 PM - INFO - element ('id', 'finish') click
+******* 04/25/2023 07: 00: 16 PM - INFO - element ('id', 'finish') is clickable
+******* 04/25/2023 07: 00: 37 PM - INFO - element ('id', 'user-name') enter value
+******* 04/25/2023 07: 00: 37 PM - INFO - element ('id', 'user-name') is visible
+******* 04/25/2023 07: 00: 37 PM - INFO - element ('id', 'password') enter value
+******* 04/25/2023 07: 00: 37 PM - INFO - element ('id', 'password') is visible
+******* 04/25/2023 07: 00: 37 PM - INFO - element ('id', 'login-button') click
+******* 04/25/2023 07: 00: 37 PM - INFO - element ('id', 'login-button') is clickable
+******* 04/25/2023 07: 00: 37 PM - INFO - element ('id', 'add-to-cart-sauce-labs-backpack') click
+******* 04/25/2023 07: 00: 37 PM - INFO - element ('id', 'add-to-cart-sauce-labs-backpack') is clickable
+******* 04/25/2023 07: 00: 37 PM - INFO - element ('class name', 'shopping_cart_badge') click
+******* 04/25/2023 07: 00: 37 PM - INFO - element ('class name', 'shopping_cart_badge') is clickable
+******* 04/25/2023 07: 00: 37 PM - INFO - element ('id', 'checkout') click
+******* 04/25/2023 07: 00: 37 PM - INFO - element ('id', 'checkout') is clickable
+******* 04/25/2023 07: 00: 38 PM - INFO - element ('id', 'first-name') enter value
+******* 04/25/2023 07: 00: 38 PM - INFO - element ('id', 'first-name') is visible
+******* 04/25/2023 07: 00: 38 PM - INFO - element ('id', 'last-name') enter value
+******* 04/25/2023 07: 00: 38 PM - INFO - element ('id', 'last-name') is visible
+******* 04/25/2023 07: 00: 38 PM - INFO - element ('id', 'postal-code') enter value
+******* 04/25/2023 07: 00: 38 PM - INFO - element ('id', 'postal-code') is visible
+******* 04/25/2023 07: 00: 38 PM - INFO - element ('id', 'continue') click
+******* 04/25/2023 07: 00: 38 PM - INFO - element ('id', 'continue') is clickable
+******* 04/25/2023 07: 00: 38 PM - INFO - element ('id', 'finish') click
+******* 04/25/2023 07: 00: 38 PM - INFO - element ('id', 'finish') is clickable
