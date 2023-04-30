@@ -1,10 +1,11 @@
 import pytest
 import allure
+from config import PASSWORD, USERNAME
 
-case_1 = ['', 'secret_sauce', 'Epic sadface: Username is required']
-case_2 = ['zhenya', 'secret_sauce', 'Epic sadface: Username and password do not match any user in this service']
-case_3 = ['standard_user', 'qwerty', 'Epic sadface: Username and password do not match any user in this service']
-case_4 = ['locked_out_user', 'secret_sauce', 'Epic sadface: Sorry, this user has been locked out.']
+case_1 = ['', PASSWORD, 'Epic sadface: Username is required']
+case_2 = ['zhenya', PASSWORD, 'Epic sadface: Username and password do not match any user in this service']
+case_3 = [USERNAME, 'qwerty', 'Epic sadface: Username and password do not match any user in this service']
+case_4 = ['locked_out_user', PASSWORD, 'Epic sadface: Sorry, this user has been locked out.']
 
 
 @allure.description('Main page')
@@ -14,7 +15,7 @@ case_4 = ['locked_out_user', 'secret_sauce', 'Epic sadface: Sorry, this user has
 @allure.severity(allure.severity_level.CRITICAL)
 def test_successful_login(index_page):
     index_page.enter_username()
-    index_page.enter_password(password='secret_sauce')
+    index_page.enter_password(password=PASSWORD)
     index_page.click_to_login_btn()
     index_page.check_title()
 
