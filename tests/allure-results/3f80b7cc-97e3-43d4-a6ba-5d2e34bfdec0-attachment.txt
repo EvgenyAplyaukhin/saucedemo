@@ -1,0 +1,22 @@
+INFO     BaseObject:base.py:30 element ('id', 'user-name') enter value
+INFO     BaseObject:base.py:14 element ('id', 'user-name') is visible
+INFO     BaseObject:base.py:30 element ('id', 'password') enter value
+INFO     BaseObject:base.py:14 element ('id', 'password') is visible
+INFO     BaseObject:base.py:26 element ('id', 'login-button') click
+INFO     BaseObject:base.py:22 element ('id', 'login-button') is clickable
+INFO     BaseObject:base.py:26 element ('id', 'add-to-cart-sauce-labs-backpack') click
+INFO     BaseObject:base.py:22 element ('id', 'add-to-cart-sauce-labs-backpack') is clickable
+INFO     BaseObject:base.py:26 element ('class name', 'shopping_cart_badge') click
+INFO     BaseObject:base.py:22 element ('class name', 'shopping_cart_badge') is clickable
+INFO     BaseObject:base.py:26 element ('id', 'checkout') click
+INFO     BaseObject:base.py:22 element ('id', 'checkout') is clickable
+INFO     BaseObject:base.py:30 element ('id', 'first-name') enter value
+INFO     BaseObject:base.py:14 element ('id', 'first-name') is visible
+INFO     BaseObject:base.py:30 element ('id', 'last-name') enter value
+INFO     BaseObject:base.py:14 element ('id', 'last-name') is visible
+INFO     BaseObject:base.py:30 element ('id', 'postal-code') enter value
+INFO     BaseObject:base.py:14 element ('id', 'postal-code') is visible
+INFO     BaseObject:base.py:26 element ('id', 'continue') click
+INFO     BaseObject:base.py:22 element ('id', 'continue') is clickable
+INFO     BaseObject:base.py:26 element ('id', 'finish') click
+INFO     BaseObject:base.py:22 element ('id', 'finish') is clickable

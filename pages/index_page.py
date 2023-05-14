@@ -27,38 +27,6 @@ class IndexPage(BaseObject, Assertions):
     def click_to_bm_burger_button(self):
         self.click(Locators.OPEN_MENU)
 
-    @allure.step('Add to card')
-    def click_to_add_to_card(self):
-        self.click(Locators.PRIMARY_BTN)
-
-    @allure.step('Go to the shopping cart')
-    def click_to_shopping_cart_link(self):
-        self.click(Locators.CART_LINK)
-
-    @allure.step('Fill in the fields')
-    def click_to_checkout(self):
-        self.click(Locators.CHECKOUT)
-
-    @allure.step('Enter first name')
-    def enter_first_name(self):
-        self.enter_value(Locators.FIRST_NAME_FIELD, 'Zhenya')
-
-    @allure.step('Enter last name')
-    def enter_last_name(self):
-        self.enter_value(Locators.LAST_NAME_FIELD, 'A')
-
-    @allure.step('Enter Zip postal cod')
-    def enter_zip_postal_cod(self):
-        self.enter_value(Locators.POSTAL_COD_FIELD, '12345')
-
-    @allure.step('Сontinue registration')
-    def click_to_continue(self):
-        self.click(Locators.CONTINUE)
-
-    @allure.step('Place an order')
-    def click_to_finish(self):
-        self.click(Locators.FINISH)
-
     @allure.step('Log out account')
     def click_to_logout_sidebar_link(self):
         self.click(Locators.LOGOUT)
