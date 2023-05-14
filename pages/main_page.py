@@ -2,23 +2,12 @@ from base_object.base import BaseObject
 from base_object.locators import Locators
 from support.assertions import Assertions
 import allure
+
 class MainPage(BaseObject, Assertions):
 
     def __init__(self, driver):
         super().__init__(driver)
         self.driver = driver
-
-    @allure.step('enter username')
-    def enter_username(self, username):
-        self.enter_value(Locators.USERNAME_FIELD, username)
-
-    @allure.step('enter password')
-    def enter_password(self, password):
-        self.enter_value(Locators.PASSWORD_FIELD, password)
-
-    @allure.step('click to login btn')
-    def click_to_login_btn(self):
-        self.click(Locators.LOGIN_BTN)
 
     @allure.step('Add to card')
     def click_to_add_to_card(self):
