@@ -40,7 +40,7 @@ class MainPage(BaseObject, Assertions):
     def enter_last_name(self):
         self.enter_value(Locators.LAST_NAME_FIELD, 'A')
 
-    @allure.step('Enter last name')
+    @allure.step('Zip postal cod')
     def enter_zip_postal_cod(self):
         self.enter_value(Locators.POSTAL_COD_FIELD, '12345')
 
