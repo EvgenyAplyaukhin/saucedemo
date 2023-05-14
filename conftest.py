@@ -4,6 +4,7 @@ from selenium.webdriver.chrome.options import Options as ChromeOptions
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 from pages.index_page import IndexPage
+from pages.main_page import MainPage
 
 
 
@@ -30,3 +31,7 @@ def setup(get_webdriver):
 @pytest.fixture
 def index_page(setup):
     yield IndexPage(setup)
+
+@pytest.fixture
+def main_page(setup):
+    yield MainPage(setup)

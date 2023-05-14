@@ -1,0 +1,6 @@
+INFO     BaseObject:base.py:30 element ('id', 'user-name') enter value
+INFO     BaseObject:base.py:14 element ('id', 'user-name') is visible
+INFO     BaseObject:base.py:30 element ('id', 'password') enter value
+INFO     BaseObject:base.py:14 element ('id', 'password') is visible
+INFO     BaseObject:base.py:26 element ('id', 'login-button') click
+INFO     BaseObject:base.py:22 element ('id', 'login-button') is clickable
