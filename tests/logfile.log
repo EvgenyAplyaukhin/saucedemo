@@ -1243,3 +1243,57 @@
 ******* 04/29/2023 08: 10: 45 PM - INFO - element ('id', 'login-button') click
 ******* 04/29/2023 08: 10: 45 PM - INFO - element ('id', 'login-button') is clickable
 ******* 04/29/2023 08: 10: 45 PM - INFO - element ('class name', 'error-message-container') is visible
+******* 05/10/2023 08: 12: 50 AM - INFO - element ('id', 'user-name') enter value
+******* 05/10/2023 08: 12: 50 AM - INFO - element ('id', 'user-name') is visible
+******* 05/10/2023 08: 12: 50 AM - INFO - element ('id', 'password') enter value
+******* 05/10/2023 08: 12: 50 AM - INFO - element ('id', 'password') is visible
+******* 05/10/2023 08: 12: 50 AM - INFO - element ('id', 'login-button') click
+******* 05/10/2023 08: 12: 50 AM - INFO - element ('id', 'login-button') is clickable
+******* 05/10/2023 08: 12: 50 AM - INFO - element ('id', 'add-to-cart-sauce-labs-backpack') click
+******* 05/10/2023 08: 12: 50 AM - INFO - element ('id', 'add-to-cart-sauce-labs-backpack') is clickable
+******* 05/10/2023 08: 12: 58 AM - INFO - element ('id', 'user-name') enter value
+******* 05/10/2023 08: 12: 58 AM - INFO - element ('id', 'user-name') is visible
+******* 05/10/2023 08: 12: 58 AM - INFO - element ('id', 'password') enter value
+******* 05/10/2023 08: 12: 58 AM - INFO - element ('id', 'password') is visible
+******* 05/10/2023 08: 12: 58 AM - INFO - element ('id', 'login-button') click
+******* 05/10/2023 08: 12: 58 AM - INFO - element ('id', 'login-button') is clickable
+******* 05/10/2023 08: 12: 58 AM - INFO - element ('id', 'add-to-cart-sauce-labs-backpack') click
+******* 05/10/2023 08: 12: 58 AM - INFO - element ('id', 'add-to-cart-sauce-labs-backpack') is clickable
+******* 05/10/2023 08: 13: 39 AM - INFO - element ('id', 'user-name') enter value
+******* 05/10/2023 08: 13: 39 AM - INFO - element ('id', 'user-name') is visible
+******* 05/10/2023 08: 13: 39 AM - INFO - element ('id', 'password') enter value
+******* 05/10/2023 08: 13: 39 AM - INFO - element ('id', 'password') is visible
+******* 05/10/2023 08: 13: 39 AM - INFO - element ('id', 'login-button') click
+******* 05/10/2023 08: 13: 39 AM - INFO - element ('id', 'login-button') is clickable
+******* 05/10/2023 08: 13: 39 AM - INFO - element ('class name', 'bm-burger-button') click
+******* 05/10/2023 08: 13: 39 AM - INFO - element ('class name', 'bm-burger-button') is clickable
+******* 05/14/2023 07: 29: 12 AM - INFO - element ('id', 'user-name') enter value
+******* 05/14/2023 07: 29: 12 AM - INFO - element ('id', 'user-name') is visible
+******* 05/14/2023 07: 29: 12 AM - INFO - element ('id', 'password') enter value
+******* 05/14/2023 07: 29: 12 AM - INFO - element ('id', 'password') is visible
+******* 05/14/2023 07: 29: 12 AM - INFO - element ('id', 'login-button') click
+******* 05/14/2023 07: 29: 12 AM - INFO - element ('id', 'login-button') is clickable
+******* 05/14/2023 07: 29: 12 AM - INFO - element ('id', 'add-to-cart-sauce-labs-backpack') click
+******* 05/14/2023 07: 29: 12 AM - INFO - element ('id', 'add-to-cart-sauce-labs-backpack') is clickable
+******* 05/14/2023 07: 29: 53 AM - INFO - element ('id', 'user-name') enter value
+******* 05/14/2023 07: 29: 53 AM - INFO - element ('id', 'user-name') is visible
+******* 05/14/2023 07: 29: 53 AM - INFO - element ('id', 'password') enter value
+******* 05/14/2023 07: 29: 53 AM - INFO - element ('id', 'password') is visible
+******* 05/14/2023 07: 29: 53 AM - INFO - element ('id', 'login-button') click
+******* 05/14/2023 07: 29: 53 AM - INFO - element ('id', 'login-button') is clickable
+******* 05/14/2023 07: 29: 54 AM - INFO - element ('id', 'add-to-cart-sauce-labs-backpack') click
+******* 05/14/2023 07: 29: 54 AM - INFO - element ('id', 'add-to-cart-sauce-labs-backpack') is clickable
+******* 05/14/2023 07: 29: 54 AM - INFO - element ('class name', 'shopping_cart_badge') click
+******* 05/14/2023 07: 29: 54 AM - INFO - element ('class name', 'shopping_cart_badge') is clickable
+******* 05/14/2023 07: 29: 54 AM - INFO - element ('id', 'checkout') click
+******* 05/14/2023 07: 29: 54 AM - INFO - element ('id', 'checkout') is clickable
+******* 05/14/2023 07: 29: 54 AM - INFO - element ('id', 'first-name') enter value
+******* 05/14/2023 07: 29: 54 AM - INFO - element ('id', 'first-name') is visible
+******* 05/14/2023 07: 29: 54 AM - INFO - element ('id', 'last-name') enter value
+******* 05/14/2023 07: 29: 54 AM - INFO - element ('id', 'last-name') is visible
+******* 05/14/2023 07: 29: 54 AM - INFO - element ('id', 'postal-code') enter value
+******* 05/14/2023 07: 29: 54 AM - INFO - element ('id', 'postal-code') is visible
+******* 05/14/2023 07: 29: 54 AM - INFO - element ('id', 'continue') click
+******* 05/14/2023 07: 29: 54 AM - INFO - element ('id', 'continue') is clickable
+******* 05/14/2023 07: 29: 54 AM - INFO - element ('id', 'finish') click
+******* 05/14/2023 07: 29: 54 AM - INFO - element ('id', 'finish') is clickable
