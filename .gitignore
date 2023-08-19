@@ -4,3 +4,9 @@
 */.pytest_cache
 output.json
 pytest_html_reporter.html
+allure-results
+logfile.log
+pyreport.html
+venv
+**/result.xml
+**/__pycache__/
